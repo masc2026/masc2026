@@ -1,0 +1,7 @@
+*.zsh
+zsh/*
+!zsh/repo_statistic.zsh
+!zsh/tmux_cluster.zsh
+!zsh/.zshrc
+img/*
+!img/screen01*
