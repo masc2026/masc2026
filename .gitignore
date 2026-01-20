@@ -1,0 +1,4 @@
+*.zsh
+zsh/
+img/
+!img/screen*
