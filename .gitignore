@@ -1,0 +1,6 @@
+*.zsh
+zsh/*
+!zsh/repo_statistic.zsh
+!zsh/.zshrc
+img/*
+!img/screen01*
